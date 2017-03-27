@@ -10,4 +10,4 @@ Primarily, the breath sensor was developed for computer music purposes. This con
 
 ## How-to
 
-This will be populated shortly with a guide/pictures
+This will be populated shortly with a guide / pictures
