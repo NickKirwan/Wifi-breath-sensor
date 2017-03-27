@@ -1,5 +1,4 @@
-// This program converts UDP OSC messages into SLIP Serial OSC messages on the ESP8266 wifi board
-// At the moment there is no OSC bundle support, not sure I need it at the moment
+// Arduino code for a Wifi based breath controller
 
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
