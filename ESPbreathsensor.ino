@@ -13,8 +13,8 @@
 int status = WL_IDLE_STATUS;
 int breath;
 
-//const char* ssid = "UMI SUPER";  //  your network name (SSID)
-//const char* pass = "miles500";       // your network password
+//const char* ssid = "your ssid";  //  your network name (SSID)
+//const char* pass = "your pass";       // your network password
 const char *ssid = "Breathsensor";     //BS SSID
 
 int localPort = 8000;
